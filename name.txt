@@ -3,3 +3,4 @@ new file2
 okay 
 trying with vs code
 new command
+6 jan 2022
