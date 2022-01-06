@@ -2,3 +2,4 @@ My name is khushi sinha.
 new file2
 okay 
 trying with vs code
+new command
