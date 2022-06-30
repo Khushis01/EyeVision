@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699042072180",
+    "project_id": "eye-vision-3ebc6",
+    "storage_bucket": "eye-vision-3ebc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699042072180:android:c9e8b3eff60b2a29343321",
+        "android_client_info": {
+          "package_name": "com.eye_vision.eye_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699042072180-mavut4cdhcorubnrdjf9293lksujhj9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eye_vision.eye_vision",
+            "certificate_hash": "425ec9380b5325e13aa8a9f8554b506acbf0fa23"
+          }
+        },
+        {
+          "client_id": "699042072180-ja1nrtieda1hm2726g0og4us6ogeodqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRcw_lhANSsfkYdTx0IfNMUQN4kK2gD6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699042072180-ja1nrtieda1hm2726g0og4us6ogeodqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
