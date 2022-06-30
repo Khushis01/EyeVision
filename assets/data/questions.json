@@ -1,0 +1,45 @@
+{
+  "question": "Choose the correct option.",
+  "data": [
+    {
+      "alphabet": "A",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "Y",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "H",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "Q",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "P",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "N",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "M",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "E",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "T",
+      "fontsize": ".9"
+    },
+    {
+      "alphabet": "B",
+      "fontsize": ".9"
+    }
+  ]
+}
